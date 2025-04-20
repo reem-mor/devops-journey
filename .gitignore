@@ -1,0 +1,12 @@
+# Ignore config files and secrets
+config.env
+*.env
+*.key
+*.pem
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+*.swp
